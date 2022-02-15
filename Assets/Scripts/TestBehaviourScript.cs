@@ -9,9 +9,9 @@ using UnityEngine.UI;
 using AIHelp;
 public class TestBehaviourScript : MonoBehaviour
 {
-    private string appKey = "THIS IS YOUR APP KEY";
-    private string domain = "THIS IS YOUR APP DOMAIN";
-    private string appId = "THIS IS YOUR APP ID"; 
+    private string appKey = "PG_app_12404136ebc44875a06809c5f4a88eb8";
+    private string domain = "pg.aihelp.net";
+    private string appId = "pg_platform_766dbb3b289f6c611fce6c8e9ff9ebfc"; 
 
     private void Awake()
     {
